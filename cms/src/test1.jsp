@@ -1,1 +1,1 @@
-<img src="accept-button.jpg">
+<img src="accept-button.jpg"> hello
